@@ -17,29 +17,6 @@
 * 🚀 I like building things that actually *run fast*
 ---
 
-## Projects
-
-### 🟣 3D Tilt Maze (FPGA)
-
-Real-time physics + 3D projection + accelerometer control
-Designed for smooth, continuous motion on hardware
-
----
-
-### 🔵 Quantized CNN on FPGA
-
-Neural network optimized for low-latency inference
-Designed with hardware constraints in mind
-
----
-
-### 🟣 Lane Runner (Verilog)
-
-Complete game built fully on FPGA
-Includes VGA pipeline + deterministic game logic
-
----
-
 ## ⚙️ Stack
 
 <p align="center">
