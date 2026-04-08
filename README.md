@@ -11,10 +11,8 @@
 
 ## About
 
-* 🎓 Computer Engineering @ UofT with 12 months of internship experience
+* 🎓 Computer Engineering @ UofT with 12+ months of internship experience
 * ⚡ Focused on **performance + low-level systems**
-* 🧠 Interested in **ML, FPGA, and real-time systems**
-* 🚀 I like building things that actually *run fast*
 ---
 
 ## ⚙️ Stack
@@ -26,11 +24,3 @@
 ---
 
 ## 🐍 Contribution Snake <p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" /> </p>
-
-## 📫
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/lara-askovic/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
