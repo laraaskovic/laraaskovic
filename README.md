@@ -13,7 +13,6 @@
 * ⚡ Focused on **performance + low-level systems**
 
 ## ⚙️ Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,verilog,linux,docker,git" />
 </p>
