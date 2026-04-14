@@ -1,7 +1,7 @@
 <!-- HEADER -->
 
 <h1 align="center">Hi 👋, I'm Lara Askovic</h1>
-<h3 align="center">⚡ Computer Engineering @ UofT | FPGA · ML · Systems</h3>
+<h2 align="center">⚡ Computer Engineering @ UofT | FPGA · ML · Systems</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=6B7280&center=true&vCenter=true&width=500&lines=building+fast+systems;fpga+%2B+machine+learning;low-level+thinking;making+ideas+real" />
