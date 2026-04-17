@@ -10,7 +10,7 @@
 * 🎓 Computer Engineering @ UofT with 12+ months of internship experience
 * ⚡ Focused on **performance + low-level systems**
 
-## ⚙️ Stack
+# ⚙️ Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,verilog,linux,docker,git" />
 </p>
