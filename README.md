@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=6B7280&center=true&vCenter=true&width=500&lines=building+fast+systems;fpga+%2B+machine+learning;low-level+thinking;making+ideas+real" />
 </p>
 
-## About
+# About
 * 🎓 Computer Engineering @ UofT with 12+ months of internship experience
 * ⚡ Focused on **performance + low-level systems**
 
