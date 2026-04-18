@@ -7,7 +7,7 @@
 </p>
 
 # About
-* 🎓 Computer Engineering @ UofT with 12+ months of internship experience
+* 🎓 Computer Engineering @ UofT with **16+** months of internship experience
 * ⚡ Focused on **performance + low-level systems**
 
 # Stack ⚙️ 
