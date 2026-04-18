@@ -1,4 +1,3 @@
-<!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Lara Askovic</h1>
 <h3 align="center">⚡ Computer Engineering @ UofT | ML · Systems</h3>
 
