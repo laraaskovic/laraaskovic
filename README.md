@@ -1,6 +1,6 @@
 <!-- HEADER -->
 
-<h1 align="center">Hi I'm Lara 👋 </h1>
+<h1 align="center">Hi 👋 I'm Lara </h1>
 <h3 align="center">⚡ Computer Engineering @ UofT | ML · Systems</h3>
 
 <p align="center">
