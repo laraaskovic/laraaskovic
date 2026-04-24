@@ -1,7 +1,7 @@
 <!-- HEADER -->
 
 <h1 align="center">Hi 👋 I'm Lara </h1>
-<h3 align="center"> ⚡ Computer Engineering @ UofT with 16+ months of intern experience | ML · Systems · FPGA ⚡</h3>
+<h3 align="center"> ⚡ Computer Engineering @ UofT with 16+ months \nof intern experience | ML · Systems · FPGA ⚡</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=4000&color=6B7280&center=true&vCenter=true&width=600&lines=building+fast+systems;fpga+%2B+machine+learning;low-level+thinking;making+ideas+real" />
