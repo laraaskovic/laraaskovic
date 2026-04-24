@@ -13,8 +13,13 @@
 
 # Stack ⚙️ 
 <p align="center">
-  <img height="280" src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,git" /><br/>
-  <img height="280" src="https://skillicons.dev/icons?i=nodejs,express,flask,docker,postgres,mongodb,aws" />
+  <div style="transform: scale(1.3);">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,git" />
+  </div>
+  <br/>
+  <div style="transform: scale(1.3);">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,flask,docker,postgres,mongodb,aws" />
+  </div>
 </p>
 
 <p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" /> </p>
