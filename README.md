@@ -13,7 +13,7 @@
 
 # Stack ⚙️ 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,php,docker,git" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,php,docker,git" />
 </p>
 
 <p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" /> </p>
