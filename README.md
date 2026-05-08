@@ -21,9 +21,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3000&color=6B7280&center=true&vCenter=true&width=900&lines=building+fast+systems;fpga+%2B+machine+learning;low-level+thinking;making+ideas+real" />
 </p>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laraaskovic&show_icons=true&theme=transparent"/>
-</p>
 
 # Stack ⚙️ 
 <p align="center">
