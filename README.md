@@ -4,6 +4,12 @@
 <h3 align="center"> ⚡ Computer Engineering @ UofT with over 16 months of intern experience | ML · Systems · FPGA ⚡</h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3000&color=6B7280&center=true&vCenter=true&width=900&lines=building+fast+systems;fpga+%2B+machine+learning;low-level+thinking;making+ideas+real" />
+</p>
+
+
+
+<p align="center">
   <a href="https://laraaskovic.github.io/geometric_3D_Interactive_Animation/">
     <img src="https://img.shields.io/badge/Portfolio-Website-7a8f7a?style=for-the-badge&logo=google-chrome&logoColor=white" height="45"/>
   </a>
@@ -17,9 +23,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3000&color=6B7280&center=true&vCenter=true&width=900&lines=building+fast+systems;fpga+%2B+machine+learning;low-level+thinking;making+ideas+real" />
-</p>
 
 
 # Stack ⚙️ 
